@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.ArrayMethods</StartupObject>
+    <StartupObject>ConsoleApp1.CollectionLists</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayMethods.cs" />
+    <Compile Include="CollectionLists.cs" />
+    <Compile Include="jaggedarrays2d.cs" />
     <Compile Include="ParamArray.cs" />
     <Compile Include="passingarray.cs" />
     <Compile Include="Program.cs" />
